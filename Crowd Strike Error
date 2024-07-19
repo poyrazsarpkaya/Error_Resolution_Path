@@ -1,0 +1,4 @@
+Boot Windows in Safe Mode or Windows Recovery Environment
+Navigate to the C:\Windows\System32\drivers\CrowdStrike directory
+Find the file named "C-00000291*.sys" and delete it
+Restart the computer or server normally
